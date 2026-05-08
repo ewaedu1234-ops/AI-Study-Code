@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 1. 데이터 불러오기 (앞서 만든 공공데이터 사용)
-df = pd.read_csv('public_air_quality.csv')
+df = pd.read_csv('009 file_public_air_quality.csv')
 
 print("=== [STEP 1] 원본 데이터 확인 ===")
 print(df.head())
