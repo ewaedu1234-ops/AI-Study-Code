@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 1. 데이터 불러오기
-df = pd.read_csv('public_air_quality.csv')
+df = pd.read_csv('009 file_public_air_quality.csv')
 
 # 2. 데이터의 첫 인상 확인하기
 print("▲ [STEP 1] 데이터 상단 5개 출력 (head)")
